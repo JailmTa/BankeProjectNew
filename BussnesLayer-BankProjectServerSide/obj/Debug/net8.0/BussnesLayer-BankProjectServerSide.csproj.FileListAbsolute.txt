@@ -1,0 +1,15 @@
+C:\Users\JAILM\source\repos\BussnesLayer-BankProjectServerSide\bin\Debug\net8.0\BussnesLayer-BankProjectServerSide.deps.json
+C:\Users\JAILM\source\repos\BussnesLayer-BankProjectServerSide\bin\Debug\net8.0\BussnesLayer-BankProjectServerSide.dll
+C:\Users\JAILM\source\repos\BussnesLayer-BankProjectServerSide\bin\Debug\net8.0\BussnesLayer-BankProjectServerSide.pdb
+C:\Users\JAILM\source\repos\BussnesLayer-BankProjectServerSide\bin\Debug\net8.0\DataAccesslayer-BankProjectServerSide.dll
+C:\Users\JAILM\source\repos\BussnesLayer-BankProjectServerSide\bin\Debug\net8.0\DataAccesslayer-BankProjectServerSide.pdb
+C:\Users\JAILM\source\repos\BussnesLayer-BankProjectServerSide\obj\Debug\net8.0\BussnesLayer-BankProjectServerSide.csproj.AssemblyReference.cache
+C:\Users\JAILM\source\repos\BussnesLayer-BankProjectServerSide\obj\Debug\net8.0\BussnesLayer-BankProjectServerSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAILM\source\repos\BussnesLayer-BankProjectServerSide\obj\Debug\net8.0\BussnesLayer-BankProjectServerSide.AssemblyInfoInputs.cache
+C:\Users\JAILM\source\repos\BussnesLayer-BankProjectServerSide\obj\Debug\net8.0\BussnesLayer-BankProjectServerSide.AssemblyInfo.cs
+C:\Users\JAILM\source\repos\BussnesLayer-BankProjectServerSide\obj\Debug\net8.0\BussnesLayer-BankProjectServerSide.csproj.CoreCompileInputs.cache
+C:\Users\JAILM\source\repos\BussnesLayer-BankProjectServerSide\obj\Debug\net8.0\BussnesLayer-BankProjectServerSide.csproj.CopyComplete
+C:\Users\JAILM\source\repos\BussnesLayer-BankProjectServerSide\obj\Debug\net8.0\BussnesLayer-BankProjectServerSide.dll
+C:\Users\JAILM\source\repos\BussnesLayer-BankProjectServerSide\obj\Debug\net8.0\refint\BussnesLayer-BankProjectServerSide.dll
+C:\Users\JAILM\source\repos\BussnesLayer-BankProjectServerSide\obj\Debug\net8.0\BussnesLayer-BankProjectServerSide.pdb
+C:\Users\JAILM\source\repos\BussnesLayer-BankProjectServerSide\obj\Debug\net8.0\ref\BussnesLayer-BankProjectServerSide.dll

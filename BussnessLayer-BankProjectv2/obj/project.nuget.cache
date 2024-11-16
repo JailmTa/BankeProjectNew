@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5ow+znNzVscO8NGMCgSLG3HWFfx0sVefMFnDq3I+PBhak6CAAcoeroxlFY7p1sUpdrOXYOF6sD9CIaY3qwSdFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JAILM\\source\\repos\\BussnessLayer-BankProjectv2\\BussnessLayer-BankProjectv2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JAILM\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

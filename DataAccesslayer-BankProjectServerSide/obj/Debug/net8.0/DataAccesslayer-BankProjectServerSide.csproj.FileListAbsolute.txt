@@ -1,0 +1,12 @@
+C:\Users\JAILM\source\repos\DataAccesslayer-BankProjectServerSide\obj\Debug\net8.0\DataAccesslayer-BankProjectServerSide.csproj.AssemblyReference.cache
+C:\Users\JAILM\source\repos\DataAccesslayer-BankProjectServerSide\obj\Debug\net8.0\DataAccesslayer-BankProjectServerSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAILM\source\repos\DataAccesslayer-BankProjectServerSide\obj\Debug\net8.0\DataAccesslayer-BankProjectServerSide.AssemblyInfoInputs.cache
+C:\Users\JAILM\source\repos\DataAccesslayer-BankProjectServerSide\obj\Debug\net8.0\DataAccesslayer-BankProjectServerSide.AssemblyInfo.cs
+C:\Users\JAILM\source\repos\DataAccesslayer-BankProjectServerSide\obj\Debug\net8.0\DataAccesslayer-BankProjectServerSide.csproj.CoreCompileInputs.cache
+C:\Users\JAILM\source\repos\DataAccesslayer-BankProjectServerSide\bin\Debug\net8.0\DataAccesslayer-BankProjectServerSide.deps.json
+C:\Users\JAILM\source\repos\DataAccesslayer-BankProjectServerSide\bin\Debug\net8.0\DataAccesslayer-BankProjectServerSide.dll
+C:\Users\JAILM\source\repos\DataAccesslayer-BankProjectServerSide\bin\Debug\net8.0\DataAccesslayer-BankProjectServerSide.pdb
+C:\Users\JAILM\source\repos\DataAccesslayer-BankProjectServerSide\obj\Debug\net8.0\DataAccesslayer-BankProjectServerSide.dll
+C:\Users\JAILM\source\repos\DataAccesslayer-BankProjectServerSide\obj\Debug\net8.0\refint\DataAccesslayer-BankProjectServerSide.dll
+C:\Users\JAILM\source\repos\DataAccesslayer-BankProjectServerSide\obj\Debug\net8.0\DataAccesslayer-BankProjectServerSide.pdb
+C:\Users\JAILM\source\repos\DataAccesslayer-BankProjectServerSide\obj\Debug\net8.0\ref\DataAccesslayer-BankProjectServerSide.dll

@@ -1,0 +1,15 @@
+C:\Users\JAILM\source\repos\BussnessLayer-BankProjectv2\bin\Debug\net8.0\BussnessLayer-BankProjectv2.deps.json
+C:\Users\JAILM\source\repos\BussnessLayer-BankProjectv2\bin\Debug\net8.0\BussnessLayer-BankProjectv2.dll
+C:\Users\JAILM\source\repos\BussnessLayer-BankProjectv2\bin\Debug\net8.0\BussnessLayer-BankProjectv2.pdb
+C:\Users\JAILM\source\repos\BussnessLayer-BankProjectv2\bin\Debug\net8.0\DataAccsessLayer-BankClientSidev2.dll
+C:\Users\JAILM\source\repos\BussnessLayer-BankProjectv2\bin\Debug\net8.0\DataAccsessLayer-BankClientSidev2.pdb
+C:\Users\JAILM\source\repos\BussnessLayer-BankProjectv2\obj\Debug\net8.0\BussnessLayer-BankProjectv2.csproj.AssemblyReference.cache
+C:\Users\JAILM\source\repos\BussnessLayer-BankProjectv2\obj\Debug\net8.0\BussnessLayer-BankProjectv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAILM\source\repos\BussnessLayer-BankProjectv2\obj\Debug\net8.0\BussnessLayer-BankProjectv2.AssemblyInfoInputs.cache
+C:\Users\JAILM\source\repos\BussnessLayer-BankProjectv2\obj\Debug\net8.0\BussnessLayer-BankProjectv2.AssemblyInfo.cs
+C:\Users\JAILM\source\repos\BussnessLayer-BankProjectv2\obj\Debug\net8.0\BussnessLayer-BankProjectv2.csproj.CoreCompileInputs.cache
+C:\Users\JAILM\source\repos\BussnessLayer-BankProjectv2\obj\Debug\net8.0\BussnessLayer-BankProjectv2.csproj.CopyComplete
+C:\Users\JAILM\source\repos\BussnessLayer-BankProjectv2\obj\Debug\net8.0\BussnessLayer-BankProjectv2.dll
+C:\Users\JAILM\source\repos\BussnessLayer-BankProjectv2\obj\Debug\net8.0\refint\BussnessLayer-BankProjectv2.dll
+C:\Users\JAILM\source\repos\BussnessLayer-BankProjectv2\obj\Debug\net8.0\BussnessLayer-BankProjectv2.pdb
+C:\Users\JAILM\source\repos\BussnessLayer-BankProjectv2\obj\Debug\net8.0\ref\BussnessLayer-BankProjectv2.dll

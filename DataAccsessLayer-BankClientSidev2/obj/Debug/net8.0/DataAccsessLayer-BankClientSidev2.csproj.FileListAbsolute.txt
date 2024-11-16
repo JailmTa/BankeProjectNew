@@ -1,0 +1,12 @@
+C:\Users\JAILM\source\repos\DataAccsessLayer-BankClientSidev2\bin\Debug\net8.0\DataAccsessLayer-BankClientSidev2.deps.json
+C:\Users\JAILM\source\repos\DataAccsessLayer-BankClientSidev2\bin\Debug\net8.0\DataAccsessLayer-BankClientSidev2.dll
+C:\Users\JAILM\source\repos\DataAccsessLayer-BankClientSidev2\bin\Debug\net8.0\DataAccsessLayer-BankClientSidev2.pdb
+C:\Users\JAILM\source\repos\DataAccsessLayer-BankClientSidev2\obj\Debug\net8.0\DataAccsessLayer-BankClientSidev2.csproj.AssemblyReference.cache
+C:\Users\JAILM\source\repos\DataAccsessLayer-BankClientSidev2\obj\Debug\net8.0\DataAccsessLayer-BankClientSidev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAILM\source\repos\DataAccsessLayer-BankClientSidev2\obj\Debug\net8.0\DataAccsessLayer-BankClientSidev2.AssemblyInfoInputs.cache
+C:\Users\JAILM\source\repos\DataAccsessLayer-BankClientSidev2\obj\Debug\net8.0\DataAccsessLayer-BankClientSidev2.AssemblyInfo.cs
+C:\Users\JAILM\source\repos\DataAccsessLayer-BankClientSidev2\obj\Debug\net8.0\DataAccsessLayer-BankClientSidev2.csproj.CoreCompileInputs.cache
+C:\Users\JAILM\source\repos\DataAccsessLayer-BankClientSidev2\obj\Debug\net8.0\DataAccsessLayer-BankClientSidev2.dll
+C:\Users\JAILM\source\repos\DataAccsessLayer-BankClientSidev2\obj\Debug\net8.0\refint\DataAccsessLayer-BankClientSidev2.dll
+C:\Users\JAILM\source\repos\DataAccsessLayer-BankClientSidev2\obj\Debug\net8.0\DataAccsessLayer-BankClientSidev2.pdb
+C:\Users\JAILM\source\repos\DataAccsessLayer-BankClientSidev2\obj\Debug\net8.0\ref\DataAccsessLayer-BankClientSidev2.dll

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Controllers\ctrlAccess.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controllers\ctrlClientCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controllers\ctrlTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Clients\frmAddClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PopUpMessages\ctrlPassWordChecker.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PopUpMessages\frmPopUpMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PopUpMessages\frmPopUpPassWord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Persons\frmAddPerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\frmAddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Clients\frmClientCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Country\frmCountryCurrency.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Country\frmCurrencyCulculeter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Clients\frmCusteamClientSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\frmCusteamUserSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Transaction\frmDeposit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\frmForgittenPassWord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForms\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForms\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\frmSetAccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Clients\frmShowingClients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\frmShowingUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Transaction\frmTansfermLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Transaction\frmTotalMoney.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForms\frmTransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Transaction\frmTransferm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\frmUserCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\frmUserLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Transaction\frmWithdraw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tcScUYSHunnK9XS74aqm4XxKvT6YAwBQTgVa1/nPqnfYld/+pMBdpcOE7J7coHaKfPI9gVipDwRDtDzxM4u0Jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JAILM\\source\\repos\\DataAccsessLayer-BankClientSidev2\\DataAccsessLayer-BankClientSidev2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JAILM\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
